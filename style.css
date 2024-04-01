@@ -1,0 +1,22 @@
+th,td{
+    color: blue;
+    border: 2px solid black;
+}
+#n{
+    color: rgb(253, 0, 0);
+}
+#m{
+    color: red;
+}
+.hello{
+    color: red;
+    border: 3px solid black;
+    width: 200px;
+    background-color:lightblue;
+    margin-left: 20px ;
+    padding-left: 200px;
+    /* float: right; */
+}
+#head{
+     color: green;
+}
